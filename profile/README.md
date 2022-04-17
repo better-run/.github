@@ -20,6 +20,14 @@
 - 润 = Run.
 - 配不上厉害国的, 只配润.
 
+> 润群交流: 
+
+
+[![Telegram](https://img.shields.io/badge/Telegram-GossipCoder-%232CA5E0?style=flat-square&logo=telegram)](https://t.me/gossip_coder)
+[![Discord](https://img.shields.io/badge/Discord-GossipCoder-%235865F2?style=flat-square&logo=discord)](https://discord.com/invite/MnDA9pfWAW)
+
+
+
 > Top: 
 
 - https://github.com/better-run/run
