@@ -12,7 +12,7 @@
 -->
 
 <h3  align="center">
-    <img width="360" align="center" alt="run" src="https://user-images.githubusercontent.com/3252130/163540627-1f9b872e-f5b0-4b1a-94b0-bdc3ac69118d.png">
+    <img width="260" align="center" alt="run" src="https://user-images.githubusercontent.com/3252130/163540627-1f9b872e-f5b0-4b1a-94b0-bdc3ac69118d.png">
 </h3>
 
 ## 华润万家: 
